@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="eventstr">Event</string>
+    <string name="peerstr">Peer</string>
+    <string name="msgstr">Message</string>
+    <string name="action_settings">Settings</string>
+</resources>
